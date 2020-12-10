@@ -7,7 +7,7 @@
   },
   "servers": [
     {
-      "url": "http://dcm4chee.test.niaiddev.net/dcm4chee-arc",
+      "url": "https://dcm4chee.test.niaiddev.net/dcm4chee-arc",
       "description": "Test server"
     }
   ],
